@@ -22,7 +22,7 @@ A program that will determine the type of a triangle. It should take the lengths
 ### Installing and running app
 Clone the repo
 ```
-git clone
+https://github.com/{username}/triangle-challenge.git
 ```
 cd in to the folder and run following commands 
 ```
